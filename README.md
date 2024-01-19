@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Website Development.
 - 🌱 I’m currently learning ...ReactJs
 - 💞️ I’m looking to collaborate on ...Web Design projects
-- 📫 How to reach me ...williamstoluwani94@gmai.com
+- 📫 How to reach me ...williamstoluwani94@gmail.com
 - 😄 Pronouns: ...????
 - ⚡ Fun fact: ...Take me out to dinner first lmaoooo
 
